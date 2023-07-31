@@ -1,0 +1,19 @@
+{
+  "name": "01-notes",
+  "version": "1.0.1",
+  "description": "Simple Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Michael Veselov <michael.veselov@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^17.7.2"
+  }
+}
